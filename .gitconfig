@@ -1,0 +1,7 @@
+# Ceci est le fichier de configuration personnel de Git.
+[user]
+	name = robcrnk
+	email = robinmahu@hotmail.com
+# Veuillez adapter et décommenter les lignes suivantes :
+#	name = robcrnk
+#	email = el-bino.62@hotmail.com
